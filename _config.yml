@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "israel.pdf" , title: "MyCV"}
   - {file: "index.html" , title: "Home"}
   - {file: "blog.md"    , title: "Blog"}
-
+  - {file: "israel.pdf" , title: "MyCV"}
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/israel675"}
