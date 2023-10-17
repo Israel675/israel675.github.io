@@ -1,6 +1,6 @@
 title: "ISRAEL"
 author: "Israel Aintum"
-description: "My Personal Blog"
+description: "My Personal Blog Test"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -12,6 +12,12 @@ show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+
+# Additional styling
+site_background_color: #F0F0F0  # Light gray background color
+frame_border_color: #555     # Dark gray frame border color
+header_background_color: #333 # Dark header background color
+header_text_color: #FFF      # White header text color
 
 # Menu
 
