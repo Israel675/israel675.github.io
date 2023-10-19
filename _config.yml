@@ -21,10 +21,19 @@ header_text_color: #FFF      # White header text color
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "israel.pdf" , title: "MyCV"}
-  - {file: "index.html" , title: "Home"}
-  - {file: "blog.md"    , title: "Blog"}
+#navigation:                # accepts {file, title, url, icon, sidebaricon}
+ # - {file: "israel.pdf" , title: "MyCV"}
+ # - {file: "index.html" , title: "Home"}
+ # - {file: "blog.md"    , title: "Blog"}
+
+ navigation:
+  - file: "israel.pdf"
+    title: "MyCV"
+  - file: "index.html"
+    title: "Home"
+  - file: "blog.md"
+    title: "Blog"
+
  
 #external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
  #- {title: Mail, icon: envelope, url: "mailto:israel.maintum@gmail.com"}
