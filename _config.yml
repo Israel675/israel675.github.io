@@ -26,12 +26,12 @@ header_text_color: #FFF      # White header text color
  # - {file: "index.html" , title: "Home"}
  # - {file: "blog.md"    , title: "Blog"}
 
- navigation:
-  - file: "israel.pdf"
+navigation:
+  - file: "https://example.com/path-to-your-israel-pdf-file/israel.pdf"
     title: "MyCV"
-  - file: "index.html"
+  - file: "https://example.com/path-to-your-index-html-file/index.html"
     title: "Home"
-  - file: "blog.md"
+  - file: "https://example.com/path-to-your-blog-markdown-file/blog.md"
     title: "Blog"
 
  
