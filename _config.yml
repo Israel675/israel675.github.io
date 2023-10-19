@@ -27,7 +27,7 @@ header_text_color: #FFF      # White header text color
  # - {file: "blog.md"    , title: "Blog"}
 
 navigation:
-  - file: "https://example.com/path-to-your-israel-pdf-file/israel.pdf"
+  - file: "https://github.com/Israel675/israel675.github.io/blob/master/israel.pdf"
     title: "MyCV"
   - file: "https://example.com/path-to-your-index-html-file/index.html"
     title: "Home"
